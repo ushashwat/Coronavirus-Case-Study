@@ -1,5 +1,5 @@
 # Coronavirus-Case-Study
-**NOTE:** This project will have weekly updates.
+**NOTE:** This project will have weekly updates. </br>
 Last updated: 2020-02-14
 
 
