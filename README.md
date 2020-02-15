@@ -49,6 +49,3 @@ Heatmap: [Folium Maps](https://github.com/python-visualization/folium) </br>
 nCoV data: [Sudalai Rajkumar](https://www.kaggle.com/sudalairajkumar) </br>
 World coordinates data: [Parul Pandey](https://www.kaggle.com/parulpandey) </br> </br>
 
-
-**NOTE:** This project will have updates as per nCoV dataset. </br>
-Check **Coronavirus Case Study.ipynb** for last update.
