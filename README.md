@@ -27,8 +27,8 @@ Heatmap: [Folium Maps](https://github.com/python-visualization/folium) </br>
 
 
 # Acknowledgement
-[Johns Hopkins University Center for Systems Science and Engineering (JHU CCSE)](https://systems.jhu.edu/) </br>
-Related research: [John Hopkins University Research](https://systems.jhu.edu/research/public-health/ncov/) </br>
+[Johns Hopkins University Center for Systems Science and Engineering (JHU CCSE)](https://systems.jhu.edu/)
+[John Hopkins University Research](https://systems.jhu.edu/research/public-health/ncov/)
 [World Health Organization (WHO)](https://www.who.int/)
 [DXY.cn. Pneumonia. 2020.](http://3g.dxy.cn/newh5/view/pneumonia.)
 [BNO News](https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/)
