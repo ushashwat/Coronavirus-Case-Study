@@ -6,9 +6,9 @@ This case study aims to provide valuable insights into the data regarding the de
 
 
 # Data source
+Original source: [Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE](https://github.com/CSSEGISandData/COVID-19) </br>
 Coronavirus dataset: [Novel Corona Virus 2019 Dataset](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset) </br>
-Original source: [Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE](https://github.com/CSSEGISandData/COVID-19)
-Latitude & Longitude dataset: [World coordinates](https://www.kaggle.com/parulpandey/world-coordinates)
+Latitude/Longitude dataset: [World coordinates](https://www.kaggle.com/parulpandey/world-coordinates)
 
 
 # Visualization
@@ -19,8 +19,9 @@ This website and its contents herein, including all data, mapping, and analysis 
 
 
 # Acknowledgement
-[John Hopkins University Research](https://systems.jhu.edu/research/public-health/ncov/)
+[Johns Hopkins University Center for Systems Science and Engineering (JHU CCSE)](https://systems.jhu.edu/) </br>
+[John Hopkins University Research](https://systems.jhu.edu/research/public-health/ncov/) </br>
 
 
 **NOTE:** This project will have regular updates. </br>
-Check **coronavirus_case_study.ipynb** for last update. </br>
+Check **coronavirus_case_study.ipynb** for last update.
