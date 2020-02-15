@@ -1,4 +1,5 @@
 # Coronavirus-Case-Study
+[Notebook](https://www.kaggle.com/ushashwat/coronavirus-case-study) </br>
 This case study aims to provide valuable insights into the data regarding the deadly Coronavirus. </br>
 
 
@@ -20,7 +21,6 @@ Latitude/Longitude dataset: [World coordinates](https://www.kaggle.com/parulpand
 
 
 # Visualization
-[Notebook](https://www.kaggle.com/ushashwat/coronavirus-case-study) </br>
 Heatmap: [Folium Maps](https://github.com/python-visualization/folium) </br>
 
 
