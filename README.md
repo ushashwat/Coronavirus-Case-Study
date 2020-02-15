@@ -17,13 +17,15 @@ Latitude/Longitude dataset: [World coordinates](https://www.kaggle.com/parulpand
 
 
 # Visualization
-[Folium Maps](https://github.com/python-visualization/folium) </br>
+Heatmap: [Folium Maps](https://github.com/python-visualization/folium) </br>
+
+
 ![alt text](https://github.com/ushashwat/Coronavirus-Case-Study/blob/master/heatmap_folium.png) </br>
 
 
+By John Hopkins University: </br>
 [Visual Dashboard (desktop)](https://arcg.is/0fHmTX) </br>
 [Visual Dashboard (mobile)](https://arcg.is/1DPOWm0) </br> </br>
-This website and its contents herein, including all data, mapping, and analysis (“Website”), copyright 2020 Johns Hopkins University, all rights reserved, is provided to the public strictly for educational and academic research purposes.  The Website relies upon publicly available data from multiple sources, that do not always agree. The Johns Hopkins University hereby disclaims any and all representations and warranties with respect to the Website, including accuracy, fitness for use, and merchantability.  Reliance on the Website for medical guidance or use of the Website in commerce is strictly prohibited.
 
 
 # Acknowledgement
@@ -34,7 +36,7 @@ Related research: [John Hopkins University Research](https://systems.jhu.edu/res
 
 # Special Thanks
 nCoV data: [Sudalairaj Kumar](https://www.kaggle.com/sudalairajkumar) </br>
-World coordinates data: [Parul Pandey](https://www.kaggle.com/parulpandey) </br>
+World coordinates data: [Parul Pandey](https://www.kaggle.com/parulpandey) </br> </br>
 
 
 **NOTE:** This project will have regular updates. </br>
