@@ -23,11 +23,6 @@ Heatmap: [Folium Maps](https://github.com/python-visualization/folium) </br>
 ![alt text](https://github.com/ushashwat/Coronavirus-Case-Study/blob/master/heatmap_folium.png) </br>
 
 
-By John Hopkins University: </br>
-[Visual Dashboard (desktop)](https://arcg.is/0fHmTX) </br>
-[Visual Dashboard (mobile)](https://arcg.is/1DPOWm0) </br> </br>
-
-
 # Acknowledgement
 [Johns Hopkins University Center for Systems Science and Engineering (JHU CCSE)](https://systems.jhu.edu/) </br>
 Related research: [John Hopkins University Research](https://systems.jhu.edu/research/public-health/ncov/) </br>
