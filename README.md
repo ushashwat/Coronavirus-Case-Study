@@ -1,6 +1,6 @@
 # Coronavirus-Case-Study
-[Notebook](https://www.kaggle.com/ushashwat/coronavirus-case-study) </br>
 This case study aims to provide valuable insights into the data regarding the deadly Coronavirus. </br>
+[Kaggle Notebook](https://www.kaggle.com/ushashwat/coronavirus-case-study) </br>
 
 
 2019 Novel Coronavirus (2019-nCoV) is a virus (more specifically, a coronavirus) identified as the cause of an outbreak of respiratory illness first detected in Wuhan, China. Early on, many of the patients in the outbreak in Wuhan, China reportedly had some link to a large seafood and animal market, suggesting animal-to-person spread. However, a growing number of patients reportedly have not had exposure to animal markets, indicating person-to-person spread is occurring. At this time, it’s unclear how easily or sustainably this virus is spreading between people - [CDC](https://www.cdc.gov/coronavirus/2019-ncov/about/index.html) </br>
@@ -46,7 +46,7 @@ Heatmap: [Folium Maps](https://github.com/python-visualization/folium) </br>
 
 
 # Special Thanks
-nCoV data: [Sudalairaj Kumar](https://www.kaggle.com/sudalairajkumar) </br>
+nCoV data: [Sudalai Rajkumar](https://www.kaggle.com/sudalairajkumar) </br>
 World coordinates data: [Parul Pandey](https://www.kaggle.com/parulpandey) </br> </br>
 
 
