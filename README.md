@@ -20,11 +20,11 @@ Latitude/Longitude dataset: [World coordinates](https://www.kaggle.com/parulpand
 
 
 # Visualization
+[Notebook](https://www.kaggle.com/ushashwat/coronavirus-case-study) </br>
 Heatmap: [Folium Maps](https://github.com/python-visualization/folium) </br>
 
 
 ![alt text](https://github.com/ushashwat/Coronavirus-Case-Study/blob/master/heatmap_folium.png) </br>
-[Notebook](https://www.kaggle.com/ushashwat/coronavirus-case-study?scriptVersionId=28680709)
 
 
 # Acknowledgement
