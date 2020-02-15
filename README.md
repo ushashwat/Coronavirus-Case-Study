@@ -51,4 +51,4 @@ World coordinates data: [Parul Pandey](https://www.kaggle.com/parulpandey) </br>
 
 
 **NOTE:** This project will have updates as per nCoV dataset. </br>
-Check **coronavirus_case_study.ipynb** for last update.
+Check **Coronavirus Case Study.ipynb** for last update.
