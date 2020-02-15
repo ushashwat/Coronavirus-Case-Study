@@ -25,7 +25,7 @@ This website and its contents herein, including all data, mapping, and analysis 
 
 # Acknowledgement
 [Johns Hopkins University Center for Systems Science and Engineering (JHU CCSE)](https://systems.jhu.edu/) </br>
-Additional: [John Hopkins University Research](https://systems.jhu.edu/research/public-health/ncov/) </br>
+Related research: [John Hopkins University Research](https://systems.jhu.edu/research/public-health/ncov/) </br>
 
 
 
