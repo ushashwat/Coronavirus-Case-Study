@@ -7,10 +7,12 @@ This case study aims to provide valuable insights into the data regarding the de
 
 
 Observed on 18th February, 2020
+
 ![alt text](https://github.com/ushashwat/Coronavirus-Case-Study/blob/master/graph_confirmed.png) </br>
 
 
 Observed on 22nd February, 2020
+
 ![alt text](https://github.com/ushashwat/Coronavirus-Case-Study/blob/master/graph_deaths.png) </br>
 
 
