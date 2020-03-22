@@ -25,8 +25,8 @@ Latitude/Longitude dataset: [World coordinates](https://www.kaggle.com/parulpand
 Heatmap: [Folium Maps](https://github.com/python-visualization/folium) </br>
 
 
-![alt text](https://github.com/ushashwat/Coronavirus-Case-Study/blob/master/folium_heatmap_old.png) </br>
-![alt text](https://github.com/ushashwat/Coronavirus-Case-Study/blob/master/folium_heatmap.png) </br>
+![alt text](https://github.com/ushashwat/Coronavirus-Case-Study/blob/master/heatmap_old.png) </br>
+![alt text](https://github.com/ushashwat/Coronavirus-Case-Study/blob/master/heatmap.png) </br>
 
 
 # Acknowledgement
