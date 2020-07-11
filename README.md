@@ -50,4 +50,4 @@ Heatmap: [Folium Maps](https://github.com/python-visualization/folium) </br>
 
 ### Special Thanks
 Covid_19 data: [Sudalai Rajkumar](https://www.kaggle.com/sudalairajkumar) </br>
-World coordinates data: [Parul Pandey](https://www.kaggle.com/parulpandey) </br> </br>
+World coordinates data: [Parul Pandey](https://www.kaggle.com/parulpandey) </br>
