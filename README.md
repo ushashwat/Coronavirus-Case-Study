@@ -1,4 +1,4 @@
-# Coronavirus-Case-Study
+# Coronavirus Case Study
 [Kaggle Notebook](https://www.kaggle.com/ushashwat/coronavirus-case-study) </br>
 This case study aims to provide valuable insights into the data regarding the deadly Coronavirus. </br>
 Last updated:  2020-03-23 09:09:10 UTC </br>
@@ -12,8 +12,7 @@ Last updated:  2020-03-23 09:09:10 UTC </br>
 
 
 ### Data Description
-This dataset has daily level information on the number of affected cases, deaths and recovery from 2019 novel coronavirus. Please note that this is a time series data and so the number of cases on any given day is the cumulative number. </br>
-The data is available from 22 Jan, 2020.
+This dataset has daily level information on the number of affected cases, deaths and recovery from 2019 novel coronavirus. Please note that this is a time series data and so the number of cases on any given day is the cumulative number. The data is available from 22 Jan, 2020. </br>
 
 
 ### Data Source
