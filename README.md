@@ -7,8 +7,8 @@ Last updated:  2020-03-23 09:09:10 UTC </br>
 2019 Novel Coronavirus (2019-nCoV) is a virus (more specifically, a coronavirus) identified as the cause of an outbreak of respiratory illness first detected in Wuhan, China. Early on, many of the patients in the outbreak in Wuhan, China reportedly had some link to a large seafood and animal market, suggesting animal-to-person spread. However, a growing number of patients reportedly have not had exposure to animal markets, indicating person-to-person spread is occurring. At this time, it’s unclear how easily or sustainably this virus is spreading between people - [CDC](https://www.cdc.gov/coronavirus/2019-ncov/about/index.html) </br>
 
 
-![Error!](https://github.com/ushashwat/Coronavirus-Case-Study/blob/master/graph_confirmed.png) </br>
-![Error!](https://github.com/ushashwat/Coronavirus-Case-Study/blob/master/graph_deaths.png) </br>
+![Image!](https://github.com/ushashwat/Coronavirus-Case-Study/blob/master/images/graph_confirmed.png) </br>
+![Image!](https://github.com/ushashwat/Coronavirus-Case-Study/blob/master/images/graph_deaths.png) </br>
 
 
 ### Data Description
@@ -25,8 +25,8 @@ Latitude/Longitude dataset: [World coordinates](https://www.kaggle.com/parulpand
 Heatmap: [Folium Maps](https://github.com/python-visualization/folium) </br>
 
 
-![Error!](https://github.com/ushashwat/Coronavirus-Case-Study/blob/master/heatmap_old.png) </br>
-![Error!](https://github.com/ushashwat/Coronavirus-Case-Study/blob/master/heatmap.png) </br>
+![Image!](https://github.com/ushashwat/Coronavirus-Case-Study/blob/master/images/heatmap_old.png) </br>
+![Image!](https://github.com/ushashwat/Coronavirus-Case-Study/blob/master/images/heatmap.png) </br>
 
 
 ### Acknowledgement
